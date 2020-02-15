@@ -63,7 +63,7 @@ img{
 #cta_link:hover{
   background-color: rgb(0,0,0);
 }
-.services_wrapper{
+.serviceswrapper{
   background-color: rgba(250,250,250,0.7);
   width: 900px;
   margin: auto;
@@ -91,7 +91,7 @@ img{
 .recent_work img:hover{
   transform: scale(2);
 }
-.testimonials_wrapper{
+.testimonialswrapper{
   background-color: rgba(250,250,250,0.7);
   width: 900px;
   margin:auto;
@@ -161,7 +161,7 @@ footer div li a{
 .heading{
   color: rgb(250,250,250);
 }
-#page_end{
+.rights{
   color: rgb(250,250,250);
   text-align: center;
   margin-top: 10px;
